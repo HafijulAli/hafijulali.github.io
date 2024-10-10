@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.823aa572.css",
+    "main.js": "/static/js/main.69a6ffaf.js",
+    "static/media/profile-picture.jpg": "/static/media/profile-picture.101236efbaab57e249db.jpg",
+    "static/media/long-portrait-self.png": "/static/media/long-portrait-self.348c99a67e496b348c6e.png",
+    "static/media/logo-text-animated.gif": "/static/media/logo-text-animated.3ed0641424b5c7822327.gif",
+    "static/media/Sheikh Hafijul Ali's Resume.pdf": "/static/media/Sheikh Hafijul Ali's Resume.437c2b19073096e1ef6c.pdf",
+    "static/media/open-todo.png": "/static/media/open-todo.06be4c5038092b8ac150.png",
+    "static/media/alive.png": "/static/media/alive.3a768b0b899636487d18.png",
+    "static/media/byte-advice.png": "/static/media/byte-advice.192950ec750e62e0e4c3.png",
+    "index.html": "/index.html",
+    "main.823aa572.css.map": "/static/css/main.823aa572.css.map",
+    "main.69a6ffaf.js.map": "/static/js/main.69a6ffaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.823aa572.css",
+    "static/js/main.69a6ffaf.js"
+  ]
+}
